@@ -19,34 +19,34 @@ Recommender systems are one of the most successful and widespread application of
   * movies.csv : movies data from MovieLens dataset
   * ratings.csv : rating given by user to movie from MovieLens dataset 
 
-# Proposition d'am�lioration et syst�me de recommandation de films alternatif
+# Improvment propositions and alternative movie recommendation system
 
-  ## Les librairies n�cessaires 
+  ## Libraries
 
-  Toutes les librairies utilis�es se trouve dans un fichier requirements.txt. Peut �tre installécomme suit : 
+  All libraries we used are in a requirements.txt file. Can be installed like this : 
   
   'pip install -R -u requirements.txt'
 
-  Contenant, entre autres : Pandas, Numpy, Seaborn, NLTK, Gensim, Wordcloud...
+  Containing : Pandas, Numpy, Seaborn, NLTK, Gensim, Wordcloud and others...
 
- ## Sch�ma de notre repository :
+ ##  Repository's schema :
 
-  '''
-  .
-  ├── dir1
-  │   ├── file11.ext
-  │   └── file12.ext
-  ├── dir2
-  │   ├── file21.ext
-  │   ├── file22.ext
-  │   └── file23.ext
-  ├── dir3
-  ├── file_in_root.ext
+   □~T~\□~T~@□~T~@ README.md
+   □~T~\□~T~@□~T~@ Research_paper.pdf
+   □~T~\□~T~@□~T~@ requirements.txt
+   □~T~\□~T~@□~T~@ LICENSE
+   □~T~\□~T~@□~T~@ datasets
+   □~T~B   □~T~T□~T~@□~T~@ u.movies.csv
+   □~T~B   □~T~T□~T~@□~T~@ u.ratings.csv
+   □~T~B   □~T~T□~T~@□~T~@ u.movies_metadata.csv
+   □~T~\□~T~@□~T~@ Stopwords
+   □~T~B   □~T~T□~T~@□~T~@ u.StopwordsNames.pkl
+   □~T~B   □~T~T□~T~@□~T~@ u.StopwordsVerbs.pkl
+   □~T~B   □~T~T□~T~@□~T~@ u.scripts
+   □~T~B   □~T~T□~T~@□~T~@ u.linux_propo.py
+   □~T~B   □~T~T□~T~@□~T~@ u.movie_recommendation_system.html
+   □~T~B   □~T~T□~T~@□~T~@ u.movie_recommendation_system.ipynb
+   □~T~B   □~T~T□~T~@□~T~@ u.src
+   □~T~B   □~T~T□~T~@□~T~@ u.libraries.py
+   □~T~B   □~T~T□~T~@□~T~@ u.FunctionsLDA.py
 
-  '''
-
-
-
-
-
-  '''
