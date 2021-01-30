@@ -25,7 +25,7 @@ Recommender systems are one of the most successful and widespread application of
 
   All libraries we used are in a requirements.txt file. Can be installed like this : 
   
-  'pip install -R -u requirements.txt'
+  `pip install -R -u requirements.txt`
 
   Containing : Pandas, Numpy, Seaborn, NLTK, Gensim, Wordcloud and others...
 
