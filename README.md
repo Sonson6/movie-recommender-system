@@ -30,7 +30,7 @@ Recommender systems are one of the most successful and widespread application of
   Containing : Pandas, Numpy, Seaborn, NLTK, Gensim, Wordcloud and others...
 
  ##  Repository's schema :
-
+   ```
    □~T~\□~T~@□~T~@ README.md
    □~T~\□~T~@□~T~@ Research_paper.pdf
    □~T~\□~T~@□~T~@ requirements.txt
@@ -49,4 +49,4 @@ Recommender systems are one of the most successful and widespread application of
    □~T~B   □~T~T□~T~@□~T~@ u.src
    □~T~B   □~T~T□~T~@□~T~@ u.libraries.py
    □~T~B   □~T~T□~T~@□~T~@ u.FunctionsLDA.py
-
+   ```
