@@ -66,4 +66,4 @@ Recommender systems are one of the most successful and widespread application of
 
   `recommandationsystem(df_dominant_topic,"Toy Story")`
 
-  https://github.com/Sonson6/movie-recommender-system/blob/master/recommendation%20system.png
+  ![alt text](https://github.com/Sonson6/movie-recommender-system/blob/master/recommendation%20system.png)
