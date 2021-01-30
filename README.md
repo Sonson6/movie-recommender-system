@@ -27,9 +27,12 @@ Recommender systems are one of the most successful and widespread application of
   
   `pip install -R -u requirements.txt`
 
-  Containing : Pandas, Numpy, Seaborn, NLTK, Gensim, Wordcloud and others...
+  Containing : _Pandas_, _Numpy_, _Seaborn_, _NLTK_, _Gensim_, _Wordcloud_ and others...
 
- ##  Repository's schema :
+ ##  New directory tree :
+
+   Here, we reorganized the initial project + we add our new features. It's cleaner and easier to read.
+
    ```
    |--- README.md
    |--- Research_paper.pdf
@@ -47,6 +50,20 @@ Recommender systems are one of the most successful and widespread application of
    |     +-- movie_recommendation_system.html
    |     +-- movie_recommendation_system.ipynb
    |--- src
-   |    +-- libraries.py
-   |    +-- FunctionsLDA.py
+   |     +-- libraries.py
+   |     +-- FunctionsLDA.py
    ```
+  
+  ## Our recommendation movie system :
+
+  * Topic modeling : Using LDA models (comparison with "coherence" metric to find the optimal number of clusters)
+  * Analyse highest cluster's probability by movie
+  * Creation of a movie recommendation function based on : Highest probability, genre and IMDb rating quantile
+
+  ## Sample of our recommendation movie system :
+
+  Let's say you just saw "Toy Story" and are looking for a similar movie to watch. Here is what's our system will purpose to you : 
+
+  `recommandationsystem(df_dominant_topic,"Toy Story")`
+
+
