@@ -31,22 +31,22 @@ Recommender systems are one of the most successful and widespread application of
 
  ##  Repository's schema :
    ```
-   □~T~\□~T~@□~T~@ README.md
-   □~T~\□~T~@□~T~@ Research_paper.pdf
-   □~T~\□~T~@□~T~@ requirements.txt
-   □~T~\□~T~@□~T~@ LICENSE
-   □~T~\□~T~@□~T~@ datasets
-   □~T~B   □~T~T□~T~@□~T~@ u.movies.csv
-   □~T~B   □~T~T□~T~@□~T~@ u.ratings.csv
-   □~T~B   □~T~T□~T~@□~T~@ u.movies_metadata.csv
-   □~T~\□~T~@□~T~@ Stopwords
-   □~T~B   □~T~T□~T~@□~T~@ u.StopwordsNames.pkl
-   □~T~B   □~T~T□~T~@□~T~@ u.StopwordsVerbs.pkl
-   □~T~B   □~T~T□~T~@□~T~@ u.scripts
-   □~T~B   □~T~T□~T~@□~T~@ u.linux_propo.py
-   □~T~B   □~T~T□~T~@□~T~@ u.movie_recommendation_system.html
-   □~T~B   □~T~T□~T~@□~T~@ u.movie_recommendation_system.ipynb
-   □~T~B   □~T~T□~T~@□~T~@ u.src
-   □~T~B   □~T~T□~T~@□~T~@ u.libraries.py
-   □~T~B   □~T~T□~T~@□~T~@ u.FunctionsLDA.py
+   |--- README.md
+   |--- Research_paper.pdf
+   |--- requirements.txt
+   |--- LICENSE
+   |--- datasets
+   |     +-- movies.csv
+   |     +-- ratings.csv
+   |     +-- movies_metadata.csv
+   |--- Stopwords
+   |     +-- StopwordsNames.pkl
+   |     +-- StopwordsVerbs.pkl
+   |--- scripts
+   |     +-- linux_propo.py
+   |     +-- movie_recommendation_system.html
+   |     +-- movie_recommendation_system.ipynb
+   |--- src
+   |    +-- libraries.py
+   |    +-- FunctionsLDA.py
    ```
